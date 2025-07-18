@@ -31,9 +31,10 @@ Great teammate with @wenweig (Goh Wen Wei), @Archercool (AoranLi), @yahm0003 (Ya
 
 ## 🔧 Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript  
-- **Visualization**: Vega & Vega-Lite (via CDN)  
-- **Data Processing**: Python (for pre-processing and cleaning BOM data)  
+- **Frontend**: HTML, CSS, JavaScript
+- **DataBase: MySQL 
+- **Visualization**: ChartJs, Leaflet
+- **Data Processing**: Python (for pre-processing and cleaning BOM data) , R 
 - **Deployment**: GitHub Pages
 
 ## 🗃️ Data Source
@@ -47,7 +48,6 @@ Great teammate with @wenweig (Goh Wen Wei), @Archercool (AoranLi), @yahm0003 (Ya
 - Comparative rainfall plots between cities
 - Pie charts showing distribution of climate data by month or region
 
-## 📁 Project Structure
 
 
 
