@@ -1,2 +1,3 @@
-# fit3164-project-trial
-This is experimenting some of the figure in the project 
+# Monash University FIT3164 Final Year Porject
+
+
